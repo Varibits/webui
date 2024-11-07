@@ -3,7 +3,7 @@
 # == 1. VARIABLES =============================================================
 
 MAKEFILE_PATH := $(abspath $(lastword $(MAKEFILE_LIST)))
-PROJECT_DIR := $(dir $(MAKEFILE_PATH))/../../../
+PROJECT_DIR := $(dir $(MAKEFILE_PATH))/../../
 LIB_DIR := $(PROJECT_DIR)/dist
 INCLUDE_DIR := $(PROJECT_DIR)/include
 WEBUI_LIB_NAME = webui-2
