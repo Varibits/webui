@@ -3,7 +3,7 @@
 
 SHELL = CMD
 LIB_DIR = ../../../dist
-INCLUDE_DIR = ../../../include
+INCLUDE_DIR = ../../include
 WEBUI_LIB_NAME = webui-2
 !IF "$(WEBUI_USE_TLS)" == "1"
 WEBUI_LIB_NAME = webui-2-secure
