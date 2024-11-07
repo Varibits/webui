@@ -3,6 +3,8 @@
 ![Logo](https://raw.githubusercontent.com/webui-dev/webui-logo/14fd595844f57ce751dfc751297b1468b10de77a/webui_120.svg)
 
 # WebUI v2.5.0-beta.2
+## This is only the original archive with added VaribitsFullscreen project.
+## Should be built using a Raspberry Pi. Only need to enter the folder and run make.
 
 [build-status]: https://img.shields.io/github/actions/workflow/status/webui-dev/webui/ci.yml?branch=main&style=for-the-badge&logo=githubactions&labelColor=414868&logoColor=C0CAF5
 [last-commit]: https://img.shields.io/github/last-commit/webui-dev/webui?style=for-the-badge&logo=github&logoColor=C0CAF5&labelColor=414868
